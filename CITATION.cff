@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The Goldbach Complex Tensor Integral on the 6N Skeleton (Part XXVII)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-07"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-goldbach-autocorrelation"
+keywords:
+  - Goldbach conjecture
+  - singular series
+  - twin-prime constant
+  - autocorrelation
+  - Hardy-Littlewood
+  - Goldbach comet
+  - experimental mathematics
+  - number theory
+references:
+  - type: article
+    title: "Some problems of 'Partitio Numerorum'; III"
+    authors:
+      - {family-names: Hardy, given-names: "G. H."}
+      - {family-names: Littlewood, given-names: "J. E."}
+    journal: "Acta Mathematica"
+    volume: 44
+    year: 1923
+  - type: software
+    title: "The Second Moment of omega under Twin-Centre Conditioning on the 6N Skeleton (Part XXVI)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20593654
